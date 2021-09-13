@@ -1,0 +1,44 @@
+
+entity Terrain {
+	energyForCommunity Integer
+    reInversion Integer
+}
+
+entity Teams {
+     originMaterials Integer
+     originSteal Integer
+     originAluminium Integer
+     sustainableProviders Boolean
+     }
+entity Providers {
+    agreementParis Integer
+    certifiedSustianable Boolean
+}
+
+entity Logistics {
+    co2Emitions Integer
+     
+}
+
+entity HumanResources {
+     investmentsLocally Integer
+     laborAccidentsindex Integer
+}
+
+entity Machinery {
+     paymentCycle Integer
+}
+
+entity Resources {
+     waterConsumtion Integer
+     reforestryIndex Integer
+}
+
+entity Dismantling {
+     guaranteeDismantling Integer
+      
+}
+
+
+// Set pagination options
+paginate Terrain, Teams, Providers, Logistics, HumanResources, Machinery, Resources, Dismantling  with infinite-scroll

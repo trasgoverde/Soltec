@@ -1,0 +1,20 @@
+{
+  "name": "Logistics",
+  "fields": [
+    {
+      "fieldName": "co2Emitions",
+      "fieldType": "Integer"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "logistics",
+  "dto": "no",
+  "pagination": "infinite-scroll",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210913163252"
+}
