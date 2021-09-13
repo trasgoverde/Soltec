@@ -1,0 +1,28 @@
+{
+  "soltecApp": {
+    "teams": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Teams",
+        "createOrEditLabel": "Create or edit a Teams",
+        "search": "Search for Teams",
+        "notFound": "No Teams found"
+      },
+      "created": "A new Teams is created with identifier {{ param }}",
+      "updated": "A Teams is updated with identifier {{ param }}",
+      "deleted": "A Teams is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Teams {{ id }}?"
+      },
+      "detail": {
+        "title": "Teams"
+      },
+      "id": "ID",
+      "originMaterials": "Origin Materials",
+      "originSteal": "Origin Steal",
+      "originAluminium": "Origin Aluminium",
+      "sustainableProviders": "Sustainable Providers"
+    }
+  }
+}

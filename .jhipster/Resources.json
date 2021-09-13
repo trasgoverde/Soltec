@@ -1,0 +1,24 @@
+{
+  "name": "Resources",
+  "fields": [
+    {
+      "fieldName": "waterConsumtion",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "reforestryIndex",
+      "fieldType": "Integer"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "resources",
+  "dto": "no",
+  "pagination": "infinite-scroll",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210913162753"
+}

@@ -1,0 +1,26 @@
+{
+  "soltecApp": {
+    "providers": {
+      "home": {
+        "title": "Providers",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Providers",
+        "createOrEditLabel": "Crear o editar Providers",
+        "search": "Buscar Providers",
+        "notFound": "Ningún Providers encontrado"
+      },
+      "created": "Un nuevo Providers ha sido creado con el identificador {{ param }}",
+      "updated": "Un Providers ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Providers ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Providers {{ id }}?"
+      },
+      "detail": {
+        "title": "Providers"
+      },
+      "id": "ID",
+      "agreementParis": "Agreement Paris",
+      "certifiedSustianable": "Certified Sustianable"
+    }
+  }
+}

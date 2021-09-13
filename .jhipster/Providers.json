@@ -1,0 +1,24 @@
+{
+  "name": "Providers",
+  "fields": [
+    {
+      "fieldName": "agreementParis",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "certifiedSustianable",
+      "fieldType": "Boolean"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "providers",
+  "dto": "no",
+  "pagination": "infinite-scroll",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210913162749"
+}

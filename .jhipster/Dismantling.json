@@ -1,0 +1,20 @@
+{
+  "name": "Dismantling",
+  "fields": [
+    {
+      "fieldName": "guaranteeDismantling",
+      "fieldType": "Integer"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "dismantling",
+  "dto": "no",
+  "pagination": "infinite-scroll",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210913162754"
+}

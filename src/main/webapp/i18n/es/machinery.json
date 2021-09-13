@@ -1,0 +1,25 @@
+{
+  "soltecApp": {
+    "machinery": {
+      "home": {
+        "title": "Machinery",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Machinery",
+        "createOrEditLabel": "Crear o editar Machinery",
+        "search": "Buscar Machinery",
+        "notFound": "Ningún Machinery encontrado"
+      },
+      "created": "Un nuevo Machinery ha sido creado con el identificador {{ param }}",
+      "updated": "Un Machinery ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Machinery ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Machinery {{ id }}?"
+      },
+      "detail": {
+        "title": "Machinery"
+      },
+      "id": "ID",
+      "paymentCycle": "Payment Cycle"
+    }
+  }
+}
