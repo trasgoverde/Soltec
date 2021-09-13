@@ -1,0 +1,26 @@
+{
+  "soltecApp": {
+    "humanResources": {
+      "home": {
+        "title": "Human Resources",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Human Resources",
+        "createOrEditLabel": "Crear o editar Human Resources",
+        "search": "Buscar Human Resources",
+        "notFound": "Ningún Human Resources encontrado"
+      },
+      "created": "Un nuevo Human Resources ha sido creado con el identificador {{ param }}",
+      "updated": "Un Human Resources ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Human Resources ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Human Resources {{ id }}?"
+      },
+      "detail": {
+        "title": "Human Resources"
+      },
+      "id": "ID",
+      "investmentsLocally": "Investments Locally",
+      "laborAccidentsindex": "Labor Accidentsindex"
+    }
+  }
+}

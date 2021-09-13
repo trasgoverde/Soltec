@@ -1,0 +1,25 @@
+{
+  "soltecApp": {
+    "logistics": {
+      "home": {
+        "title": "Logistics",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Logistics",
+        "createOrEditLabel": "Create or edit a Logistics",
+        "search": "Search for Logistics",
+        "notFound": "No Logistics found"
+      },
+      "created": "A new Logistics is created with identifier {{ param }}",
+      "updated": "A Logistics is updated with identifier {{ param }}",
+      "deleted": "A Logistics is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Logistics {{ id }}?"
+      },
+      "detail": {
+        "title": "Logistics"
+      },
+      "id": "ID",
+      "co2Emitions": "Co 2 Emitions"
+    }
+  }
+}

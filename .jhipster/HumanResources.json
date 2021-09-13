@@ -1,0 +1,24 @@
+{
+  "name": "HumanResources",
+  "fields": [
+    {
+      "fieldName": "investmentsLocally",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "laborAccidentsindex",
+      "fieldType": "Integer"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "human_resources",
+  "dto": "no",
+  "pagination": "infinite-scroll",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210913162751"
+}

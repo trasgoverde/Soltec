@@ -43,7 +43,9 @@
     "devServerPort": 9060,
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Terrain", "Teams", "Providers", "Logistics", "HumanResources", "Machinery", "Resources", "Dismantling"],
+    "lastLiquibaseTimestamp": 1631550474000
   },
   "git-provider": "GitHub",
   "git-company": "trasgoverde",
