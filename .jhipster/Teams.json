@@ -1,0 +1,32 @@
+{
+  "name": "Teams",
+  "fields": [
+    {
+      "fieldName": "originMaterials",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "originSteal",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "originAluminium",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "sustainableProviders",
+      "fieldType": "Boolean"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "teams",
+  "dto": "no",
+  "pagination": "infinite-scroll",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210913163250"
+}

@@ -1,0 +1,26 @@
+{
+  "soltecApp": {
+    "resources": {
+      "home": {
+        "title": "Resources",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Resources",
+        "createOrEditLabel": "Create or edit a Resources",
+        "search": "Search for Resources",
+        "notFound": "No Resources found"
+      },
+      "created": "A new Resources is created with identifier {{ param }}",
+      "updated": "A Resources is updated with identifier {{ param }}",
+      "deleted": "A Resources is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Resources {{ id }}?"
+      },
+      "detail": {
+        "title": "Resources"
+      },
+      "id": "ID",
+      "waterConsumtion": "Water Consumtion",
+      "reforestryIndex": "Reforestry Index"
+    }
+  }
+}

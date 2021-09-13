@@ -1,0 +1,25 @@
+{
+  "soltecApp": {
+    "dismantling": {
+      "home": {
+        "title": "Dismantlings",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Dismantling",
+        "createOrEditLabel": "Crear o editar Dismantling",
+        "search": "Buscar Dismantling",
+        "notFound": "Ningún Dismantlings encontrado"
+      },
+      "created": "Un nuevo Dismantling ha sido creado con el identificador {{ param }}",
+      "updated": "Un Dismantling ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Dismantling ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Dismantling {{ id }}?"
+      },
+      "detail": {
+        "title": "Dismantling"
+      },
+      "id": "ID",
+      "guaranteeDismantling": "Guarantee Dismantling"
+    }
+  }
+}

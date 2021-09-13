@@ -1,0 +1,26 @@
+{
+  "soltecApp": {
+    "terrain": {
+      "home": {
+        "title": "Terrains",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Terrain",
+        "createOrEditLabel": "Crear o editar Terrain",
+        "search": "Buscar Terrain",
+        "notFound": "Ningún Terrains encontrado"
+      },
+      "created": "Un nuevo Terrain ha sido creado con el identificador {{ param }}",
+      "updated": "Un Terrain ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Terrain ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Terrain {{ id }}?"
+      },
+      "detail": {
+        "title": "Terrain"
+      },
+      "id": "ID",
+      "energyForCommunity": "Energy For Community",
+      "reInversion": "Re Inversion"
+    }
+  }
+}

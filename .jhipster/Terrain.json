@@ -1,0 +1,24 @@
+{
+  "name": "Terrain",
+  "fields": [
+    {
+      "fieldName": "energyForCommunity",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "reInversion",
+      "fieldType": "Integer"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "terrain",
+  "dto": "no",
+  "pagination": "infinite-scroll",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210913163249"
+}
